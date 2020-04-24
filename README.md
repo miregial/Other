@@ -1,1 +1,1 @@
-Для работы с shell
+for shell code
